@@ -3,7 +3,7 @@ Built to showcase skills in both backend and frontend development.
 Roxiler System Assessment - MERN Stack Project
 Backend Tasks
 Data Source
-Third-party API URL: Product Transaction JSON
+Third-party API URL:  https://s3.amazonaws.com/roxiler.com/product_transaction.json
 Request Method: GET
 Response Format: JSON
 APIs to Develop
